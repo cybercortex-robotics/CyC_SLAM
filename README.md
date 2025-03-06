@@ -18,8 +18,12 @@
 
 <p align="center">
   <a href="">
-    <img src="./media/CyC_slam.gif" alt="CyC_slam" width="100%">
+    <img src="./media/CyC_slam.mp4" alt="CyC_slam" width="100%">
   </a>
 </p>
+
+<video src="./media/CyC_slam.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
 
 ## 1. Introduction
