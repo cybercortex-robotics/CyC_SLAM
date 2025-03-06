@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./media/CyC_slam.mp4" alt="CyC_slam" width="100%">
+    <img src="./media/CyC_slam.gif" alt="CyC_slam" width="100%">
   </a>
 </p>
 
