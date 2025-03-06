@@ -15,7 +15,7 @@
   <br>
   <a href="https://arxiv.org/abs/2409.01241"><b>Paper Link</b>👁️</a>
 </div>
-
+<br>
 <p align="center">
   <a href="">
     <img src="./media/CyC_slam.gif" alt="CyC_slam" width="100%">
